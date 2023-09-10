@@ -1,0 +1,4 @@
+pada saat kita 'select' suatu element maka kita bisa dapat memanipulasi innerHTML, innerText, textContent
+-innerText = suatu properti yang dapat mengambil isi text pada suatu element tanpa memperdulikan adanya huruf/atau kata yang diberi style
+-textContent = sama saja tetapi pada text content suatu nilai yang bersifat tab, enter dan lainnya , itu ditampilkan
+-innerHTML = sama saja tetapi tag html nya ikut terbaca

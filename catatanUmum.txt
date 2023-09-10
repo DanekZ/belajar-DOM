@@ -1,0 +1,22 @@
+properties dan method yang penting diketahui 
+1.method
+-classList
+-getAtrribute();
+-setAttribute();
+-appendChild();
+-append();
+-prepend();
+-removeChild();
+-remove();
+-createElment
+
+2.properties
+-innertText
+-textContent
+-innerHTML
+-value
+-parentElement
+-children
+-nextSibling
+-previousSibling
+-style

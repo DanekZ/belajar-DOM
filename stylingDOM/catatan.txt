@@ -1,0 +1,3 @@
+saat ingin melakukan style, pada element misal const p.
+maka jika ingin melakukan style cukup dengan mealkukan p.style.(style apapun)
+
